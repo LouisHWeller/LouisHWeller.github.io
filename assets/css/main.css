@@ -3513,6 +3513,8 @@ input, select, textarea {
 
 /* Custom */
 .round-image {
+	display:block;
     border-radius: 50%;
-	margin-top: -20px;
+	margin: 0 auto;
+	width: 80%;
 }
