@@ -3510,3 +3510,8 @@ input, select, textarea {
 			}
 
 	}
+
+/* Custom */
+.round-image {
+    border-radius: 50%;
+}
